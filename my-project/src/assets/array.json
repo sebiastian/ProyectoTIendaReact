@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "nombre": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "categoria": "literaturaClasica",
+    "descripcion": "Don Quijote es una novela que narra las aventuras de un hidalgo llamado Alonso Quijano que enloquece tras leer demasiados libros de caballería y decide convertirse en un caballero andante, tomando el nombre de Don Quijote. Junto a su fiel escudero Sancho Panza, se embarca en una serie de divertidas y a veces trágicas peripecias.",
+    "precio": 15.99,
+    "img": ""
+  },
+  {
+    "id": 2,
+    "nombre": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "categoria": "literaturaClasica",
+    "descripcion": "Orgullo y prejuicio es una novela romántica que sigue la vida de Elizabeth Bennet mientras lidia con cuestiones de matrimonio, moralidad y prejuicios sociales en la sociedad británica del siglo XIX. La obra es conocida por su aguda observación de la sociedad y su ingenioso estilo literario.",
+    "precio": 12.99,
+    "img": ""
+  },
+  {
+    "id": 3,
+    "nombre": "Crimen y castigo",
+    "autor": "Fyodor Dostoevsky",
+    "categoria": "literaturaClasica",
+    "descripcion": "Crimen y castigo es una novela psicológica que sigue la vida de Rodion Raskolnikov, un estudiante pobre que comete un asesinato y luego lidia con las consecuencias morales y psicológicas. La obra explora temas como la moralidad, el castigo y la redención.",
+    "precio": 18.99,
+    "img": ""
+  },
+  {
+    "id": 4,
+    "nombre": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "categoria": "literaturaClasica",
+    "descripcion": "Matar a un ruiseñor es una novela que aborda temas de racismo y justicia en el sur de Estados Unidos durante la década de 1930. La historia está narrada por Scout Finch, una niña que observa la injusticia racial mientras su padre, el abogado Atticus Finch, defiende a un hombre negro acusado de violar a una mujer blanca.",
+    "precio": 14.99,
+    "img": ""
+  },
+  {
+    "id": 5,
+    "nombre": "1984",
+    "autor": "George Orwell",
+    "categoria": "literaturaClasica",
+    "descripcion": "1984 es una novela distópica que presenta un futuro totalitario donde el gobierno, encabezado por el Partido, controla todos los aspectos de la vida. La obra sigue la historia de Winston Smith, un hombre que trabaja en el Ministerio de la Verdad y se rebela contra el control opresivo del Estado.",
+    "precio": 16.99,
+    "img": ""
+  },
+  {
+    "id": 6,
+    "nombre": "El resplandor",
+    "autor": "Stephen King",
+    "categoria": "terror",
+    "descripcion": "El resplandor es una novela de terror psicológico que sigue la historia de Jack Torrance, un escritor y alcohólico que acepta un trabajo como cuidador de un hotel aislado durante el invierno. A medida que la familia Torrance se instala en el hotel, eventos paranormales comienzan a desencadenarse, llevando a Jack a la locura.",
+    "precio": 21.99,
+    "img": ""
+  },
+  {
+    "id": 7,
+    "nombre": "IT",
+    "autor": "Stephen King",
+    "categoria": "terror",
+    "descripcion": "IT es una novela que sigue la historia de un grupo de niños que se enfrentan a un ente malévolo que toma la forma de Pennywise, el payaso. La historia alterna entre la infancia y la adultez de los personajes, explorando sus miedos más profundos.",
+    "precio": 19.99,
+    "img": ""
+  },
+  {
+    "id": 8,
+    "nombre": "El exorcista",
+    "autor": "William Peter Blatty",
+    "categoria": "terror",
+    "descripcion": "El exorcista es una novela de terror que sigue la posesión demoníaca de una niña de doce años y los esfuerzos de un sacerdote y un equipo de médicos para salvarla. La historia aborda temas de fe y el enfrentamiento entre el bien y el mal.",
+    "precio": 17.99,
+    "img": ""
+  },
+  {
+    "id": 9,
+    "nombre": "Psicosis",
+    "autor": "Robert Bloch",
+    "categoria": "terror",
+    "descripcion": "Psicosis es una novela que inspiró la famosa película de Alfred Hitchcock. La historia sigue a Norman Bates, el propietario de un motel, y las perturbadoras revelaciones sobre su vida. La trama es conocida por su giro inesperado.",
+    "precio": 16.99,
+    "img": ""
+  },
+  {
+    "id": 10,
+    "nombre": "Frankenstein",
+    "autor": "Mary Shelley",
+    "categoria": "terror",
+    "descripcion": "Frankenstein es una novela que explora las consecuencias éticas y morales de la creación de vida. El científico Victor Frankenstein crea un ser monstruoso y las consecuencias trágicas de su experimento. La obra es considerada un clásico del género de terror gótico.",
+    "precio": 15.99,
+    "img": ""
+  },
+  {
+    "id": 11,
+    "nombre": "Hoja de hierba",
+    "autor": "Walt Whitman",
+    "categoria": "poesia",
+    "descripcion": "Hoja de hierba es una colección de poemas del poeta estadounidense Walt Whitman. Celebrada por su enfoque innovador y libre, la obra explora la naturaleza, la espiritualidad y la conexión entre los seres humanos y la Tierra.",
+    "precio": 13.99,
+    "img": ""
+  },
+  {
+    "id": 12,
+    "nombre": "Las flores del mal",
+    "autor": "Charles Baudelaire",
+    "categoria": "poesia",
+    "descripcion": "Las flores del mal es una colección de poemas del poeta francés Charles Baudelaire. Conocida por su expresión de la decadencia y la belleza moderna, la obra es un hito en la poesía simbolista.",
+    "precio": 14.99,
+    "img": ""
+  },
+  {
+    "id": 13,
+    "nombre": "Veinte poemas de amor y una canción desesperada",
+    "autor": "Pablo Neruda",
+    "categoria": "poesia",
+    "descripcion": "Veinte poemas de amor y una canción desesperada es una colección emblemática del poeta chileno Pablo Neruda. La obra explora temas de amor, pasión y desesperación, capturando la intensidad emocional de la experiencia humana.",
+    "precio": 16.99
+  },
+  {
+    "id": 14,
+    "nombre": "El cuervo",
+    "autor": "Edgar Allan Poe",
+    "categoria": "poesia",
+    "descripcion": "El cuervo es un poema narrativo escrito por Edgar Allan Poe. Conocido por su atmósfera melancólica y su estilo gótico, el poema narra la visita de un cuervo misterioso a un hombre afligido, explorando temas de luto y desesperación.",
+    "precio": 12.99
+  },
+  {
+    "id": 15,
+    "nombre": "Cien sonetos de amor",
+    "autor": "Pablo Neruda",
+    "categoria": "poesia",
+    "descripcion": "Cien sonetos de amor es otra destacada obra del poeta chileno Pablo Neruda. Esta colección de sonetos explora la complejidad del amor en diferentes formas y matices, capturando la belleza y la intensidad de las emociones amorosas.",
+    "precio": 18.99
+  },
+  {
+    "id": 16,
+    "nombre": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "categoria": "infantiles",
+    "descripcion": "El principito es una novela corta que cuenta la historia de un pequeño príncipe que viaja de planeta en planeta, encontrando personajes peculiares y aprendiendo lecciones valiosas sobre la vida y la amistad.",
+    "precio": 10.99,
+    "img": ""
+  },
+  {
+    "id": 17,
+    "nombre": "¿A qué sabe la luna?",
+    "autor": "Michael Grejniec",
+    "categoria": "infantiles",
+    "descripcion": "¿A qué sabe la luna? es un libro infantil que narra la historia de varios animales que intentan alcanzar la luna para descubrir a qué sabe. Con ilustraciones encantadoras, es perfecto para lectores jóvenes.",
+    "precio": 8.99,
+    "img": ""
+  },
+  {
+    "id": 18,
+    "nombre": "Harry Potter y la piedra filosofal",
+    "autor": "J.K. Rowling",
+    "categoria": "fantasia",
+    "descripcion": "Harry Potter y la piedra filosofal es la primera entrega de la famosa serie de libros de J.K. Rowling. La historia sigue a Harry, un joven mago, mientras descubre el mundo mágico y enfrenta desafíos en la escuela de magia de Hogwarts.",
+    "precio": 14.99,
+    "img": ""
+  },
+  {
+    "id": 19,
+    "nombre": "El señor de los anillos: La comunidad del anillo",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "fantasia",
+    "descripcion": "La comunidad del anillo es el primer libro de la trilogía de J.R.R. Tolkien. La historia sigue a Frodo Bolsón mientras emprende un peligroso viaje para destruir un anillo mágico que amenaza con sumir al mundo en la oscuridad.",
+    "precio": 19.99,
+    "img": ""
+  },
+  {
+    "id": 20,
+    "nombre": "Las crónicas de Narnia: El león, la bruja y el armario",
+    "autor": "C.S. Lewis",
+    "categoria": "fantasia",
+    "descripcion": "El león, la bruja y el armario es el primer libro de las Crónicas de Narnia. La historia sigue a cuatro niños mientras descubren un mundo mágico detrás de un armario y participan en la lucha contra la malvada Bruja Blanca.",
+    "precio": 16.99,
+    "img": ""
+  },
+  {
+    "id": 21,
+    "nombre": "¿Cómo atrapar una estrella?",
+    "autor": "Oliver Jeffers",
+    "categoria": "infantiles",
+    "descripcion": "¿Cómo atrapar una estrella? es un encantador libro para niños que cuenta la historia de un niño que tiene el deseo de atrapar una estrella. Con ilustraciones hermosas, es una historia que inspira la imaginación.",
+    "precio": 9.99,
+    "img": ""
+  },
+  {
+    "id": 22,
+    "nombre": "Matilda",
+    "autor": "Roald Dahl",
+    "categoria": "infantiles",
+    "descripcion": "Matilda es una novela infantil que sigue la vida de una niña prodigio con habilidades telequinéticas. A pesar de enfrentarse a padres negligentes y a una directora cruel, Matilda encuentra fuerza en su amor por los libros.",
+    "precio": 12.99,
+    "img": ""
+  },
+  {
+    "id": 23,
+    "nombre": "El Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "fantasia",
+    "descripcion": "El Hobbit es una novela que precede a la trilogía de El Señor de los Anillos. La historia sigue al hobbit Bilbo Bolsón en su épico viaje para recuperar un tesoro custodiado por el dragón Smaug.",
+    "precio": 15.99,
+    "img": ""
+  },
+  {
+    "id": 24,
+    "nombre": "Alicia en el país de las maravillas",
+    "autor": "Lewis Carroll",
+    "categoria": "fantasia",
+    "descripcion": "Alicia en el país de las maravillas es una historia clásica que sigue a Alicia mientras cae por la madriguera de un conejo y entra en un mundo fantástico lleno de personajes extravagantes y situaciones absurdas.",
+    "precio": 11.99,
+    "img": ""
+  },
+  {
+    "id": 25,
+    "nombre": "El Grúfalo",
+    "autor": "Julia Donaldson",
+    "categoria": "infantiles",
+    "descripcion": "El Grúfalo es un libro infantil que narra la historia de un astuto ratón que inventa un animal llamado el Grúfalo para ahuyentar a los depredadores. Pero, ¿qué sucede cuando el ratón se encuentra con un Grúfalo real?",
+    "precio": 10.99,
+    "img": ""
+  }
+]
